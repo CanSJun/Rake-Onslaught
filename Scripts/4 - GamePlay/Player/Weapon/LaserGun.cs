@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LagerGun : ContinuousGun
+public class LaserGun : ContinuousGun
 {
 
     [SerializeField] private float _damage = 1f;

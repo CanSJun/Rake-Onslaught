@@ -11,7 +11,7 @@ public enum SfxId : int
     AutoGunShot = 1,
     ShotGunShot = 2,
     //FlameGunShot = 3, // 지속형은 따로 관리
-    //LagerGunShot = 4,
+    //LaserGunShot = 4,
     Reload = 5,
 
     // 스킬 소리
